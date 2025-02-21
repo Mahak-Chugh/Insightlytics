@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
+#import plotly.express as px
 
 # Set page configuration
 st.set_page_config(page_title="Data Analysis App", layout="wide", page_icon="📊")
